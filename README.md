@@ -14,6 +14,3 @@
 ## Installation Guide
 
 ### 1. Install PyTorch
-Install PyTorch based on your operating system and hardware architecture. Detailed instructions are available on the [PyTorch official website](https://pytorch.org/get-started/locally/). For example, to install the GPU version, use the following command:
-```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
