@@ -1,8 +1,5 @@
 # QCNN_SBVS
  Quantum Convolution for Structure-Based Virtual Screening
-# Occupancy and Binding Free Energy Prediction
-
-This project aims to use PyTorch to train models for predicting occupancy and binding free energy.
 
 ## Project Directory Structure
 - **1_database/1_structure**: Contains occupancy data for training and testing.
