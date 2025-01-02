@@ -10,10 +10,10 @@
 > The data in this project is derived from PDBbind 2020, which includes a total of 19,443 entries. Due to storage limitations, only 10 sample entries are provided.
 
 ---
+To set up the required environment, install the following dependencies:
 
-## Installation Guide
-
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
-pip install numpy
-pip install pennylane
+1. **Install NumPy (repeat to ensure installation):**
+   ```bash
+  pip install numpy
+  pip install pennylane
 
