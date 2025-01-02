@@ -1,5 +1,5 @@
 # QCNN_SBVS
- Quantum Convolution for Structure-Based Virtual Screening
+Quantum Convolution for Structure-Based Virtual Screening
 
 ## Project Directory Structure
 - **1_database/1_structure**: Contains occupancy data for training and testing.
@@ -21,10 +21,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 # Install NumPy
 pip install numpy
-pip install numpy
 
 # Install PennyLane
 pip install pennylane
-
-
-
