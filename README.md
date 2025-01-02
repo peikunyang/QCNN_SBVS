@@ -10,17 +10,21 @@
 > The data in this project is derived from PDBbind 2020, which includes a total of 19,443 entries. Due to storage limitations, only 10 sample entries are provided.
 
 ---
+
 ## Installation Guide
 
 To set up the required environment, install the following dependencies:
 
-1. **Install PyTorch (with CUDA support):**
-   ```bash
-   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+```bash
+# Install PyTorch (with CUDA support)
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 
+# Install NumPy
 pip install numpy
 pip install numpy
 
+# Install PennyLane
 pip install pennylane
+
 
 
