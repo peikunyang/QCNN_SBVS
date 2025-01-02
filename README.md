@@ -12,5 +12,7 @@
 ---
 
 ## Installation Guide
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pip install numpy
+pip install pennylane
 
-### 1. Install PyTorch
